@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 190" fill="none" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Aproximación vectorial decorativa del birrete y diploma de la referencia. -->
+  <g stroke="#174b65" stroke-width="2.2">
+    <path d="M68 64L76 106Q131 144 194 102L195 61" fill="#0e527a"/>
+    <path d="M79 81L85 105Q134 130 184 103L187 79" stroke="#f1ead6"/>
+    <path d="M29 51L140 12L250 49L139 96Z" fill="#11577d"/>
+    <path d="M39 51L139 87L239 50M139 87V94" stroke="#ede8d4" stroke-width="1.5"/>
+    <ellipse cx="140" cy="49" rx="7" ry="4" fill="#f3ecd8" stroke="none"/>
+    <path d="M140 49L61 44L52 107" stroke="#f3ecd8" stroke-width="2.5"/>
+    <path d="M58 47L48 107"/>
+    <path d="M48 102Q38 114 36 133L44 128L46 138L54 130L58 135Q64 115 53 102Z" fill="#11577d"/>
+    <path d="M46 109L42 127M50 109L48 130M54 110L54 127" stroke="#f3ecd8" stroke-width="1"/>
+  </g>
+  <g transform="rotate(-16 155 139)" stroke="#4b625b" stroke-width="2">
+    <path d="M60 119L224 119Q246 132 230 151L69 151" fill="#f3f0da"/>
+    <path d="M63 119C32 116 36 158 68 155C95 151 87 121 67 124C52 126 51 143 64 146C78 148 78 133 68 132" fill="#e9ebd9"/>
+    <path d="M225 120C210 129 215 146 230 151M76 125L216 125M84 145L217 145" stroke="#899b8c" stroke-width="1.4"/>
+    <path d="M164 119L159 151L173 151L177 119" fill="#bb3734"/>
+    <path d="M166 143Q151 125 135 133C124 148 151 153 166 143Z" fill="#c94c41"/>
+    <path d="M167 143Q190 123 203 139C208 156 177 154 167 143Z" fill="#c94c41"/>
+    <path d="M162 147L149 172L160 167L168 178L175 150L183 173L190 164L200 170L180 147" fill="#b73734"/>
+    <ellipse cx="168" cy="144" rx="8" ry="7" fill="#c9483a"/>
+  </g>
+</svg>
